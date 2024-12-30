@@ -101,7 +101,3 @@ _ _ _ _ 8 _ _ 7 9
 
 ## Author
 This project was created by **Justas Bardauskas**.
-
-## License
-This project is licensed under the MIT License
-```
